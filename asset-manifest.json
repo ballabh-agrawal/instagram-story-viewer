@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/instagram-story-viewer/static/css/main.06d8489c.css",
+    "main.js": "/instagram-story-viewer/static/js/main.0cb461d5.js",
+    "static/js/453.bd6e685b.chunk.js": "/instagram-story-viewer/static/js/453.bd6e685b.chunk.js",
+    "index.html": "/instagram-story-viewer/index.html",
+    "main.06d8489c.css.map": "/instagram-story-viewer/static/css/main.06d8489c.css.map",
+    "main.0cb461d5.js.map": "/instagram-story-viewer/static/js/main.0cb461d5.js.map",
+    "453.bd6e685b.chunk.js.map": "/instagram-story-viewer/static/js/453.bd6e685b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d8489c.css",
+    "static/js/main.0cb461d5.js"
+  ]
+}
